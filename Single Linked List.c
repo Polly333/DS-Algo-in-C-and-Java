@@ -1,4 +1,5 @@
 
+//Credits- GATE CS Applied Course
 /* P3.1 Program for a single linked list*/
 
 #include<stdio.h>
