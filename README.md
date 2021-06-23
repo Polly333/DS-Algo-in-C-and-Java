@@ -1,4 +1,4 @@
-# DS-Algo-in-C
+# DS-Algo-in-C and Java
 Implementation of Pseudo Code in CLRS Book
 
 ## **Use Visual Go For intuitive Understanding of Sorting Algorithms and Data Structures**
