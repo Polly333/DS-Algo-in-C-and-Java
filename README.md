@@ -32,3 +32,6 @@ You can control the speed of animation from the bottom bar. Also there will be P
 All codes also at - https://replit.com/repls/folder/Java
 
 ## Recursion Visualization - https://www.youtube.com/watch?v=ngCos392W4w
+
+## Time Complexity - Instead of measuring actual time required in executing each statement in the code, we consider how many times each statement execute. 
+https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
